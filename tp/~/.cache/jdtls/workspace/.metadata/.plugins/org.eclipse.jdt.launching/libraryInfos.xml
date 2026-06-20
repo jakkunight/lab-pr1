@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/nix/store/2c52z0rvldik0rll2xz2ip5dl1c8f3pw-openjdk-21.0.10+7/lib/openjdk" version="21.0.10"/>
+    <libraryInfo home="/nix/store/c3pl7bqrx3d2rc3dh98z6yaj0mv1p52g-openjdk-21.0.10+7/lib/openjdk" version="21.0.10"/>
+</libraryInfos>

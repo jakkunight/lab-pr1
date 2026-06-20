@@ -1,0 +1,5 @@
+inputs:
+  nix-oracle-db:
+    url: github:drupol/nix-oracle-db
+  nixpkgs:
+    url: github:cachix/devenv-nixpkgs/rolling
