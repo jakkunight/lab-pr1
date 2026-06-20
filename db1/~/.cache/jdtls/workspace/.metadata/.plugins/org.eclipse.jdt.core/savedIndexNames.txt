@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/jakku/Documents/COLUMBIA/pr1/db1/~/.cache/jdtls/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3842426239.index
+1078247516.index
